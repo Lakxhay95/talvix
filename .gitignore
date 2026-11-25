@@ -1,0 +1,23 @@
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# Java compiled files
+*.class
+target/
+build/
+
+# Logs
+*.log
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Maven
+.mvn/wrapper/maven-wrapper.jar
